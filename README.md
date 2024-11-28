@@ -10,7 +10,7 @@ I believe in delivering **high-quality** work from start to finish, and I love t
 
 ### Always Learning & Growing:
 
-I'm committed to staying at the forefront of technology. Recently completed both AI Devs 2 & 3 editions [@aidevs.pl](https://www.aidevs.pl/) - one of Poland's largest AI development courses, focusing on building autonomous AI agents and working with cutting-edge LLM technologies. 🤖
+I'm committed to staying at the forefront of technology. Recently taking part in AI Devs 2 & 3 editions [@aidevs.pl](https://www.aidevs.pl/) - one of Poland's largest AI development courses, focusing on building autonomous AI agents and working with cutting-edge LLM technologies. 🤖
 
 ### My Tech Stack:
 
