@@ -1,12 +1,16 @@
 # Hi there, I'm Adam! 👋
 
-💾 **Enthusiastic Software Engineer** | ⚛️ **Front-End Web Wizard** | 🌐 **Full-Stack Adventurer** | ⚙️ **DevOps Tinkerer** 
+💾 **Enthusiastic Software Engineer** | ⚛️ **Front-End Web Wizard** | 🌐 **Full-Stack Adventurer** | ⚙️ **DevOps Tinkerer**
 
 ---
 
-I’m passionate about crafting **smooth, user-friendly applications** that make an impact. While Front-End Web development is my bread and butter, I’m never afraid to dive into Back-End or DevOps when needed. 
+I'm passionate about crafting **smooth, user-friendly applications** that make an impact. While Front-End Web development is my bread and butter, I'm never afraid to dive into Back-End or DevOps when needed.
 
 I believe in delivering **high-quality** work from start to finish, and I love taking on new challenges. 🚀
+
+### Always Learning & Growing:
+
+I'm committed to staying at the forefront of technology. Recently completed both AI Devs 2 & 3 editions [@aidevs.pl](https://www.aidevs.pl/) - one of Poland's largest AI development courses, focusing on building autonomous AI agents and working with cutting-edge LLM technologies. 🤖
 
 ### My Tech Stack:
 
@@ -34,5 +38,6 @@ I believe in delivering **high-quality** work from start to finish, and I love t
 
 ---
 
-### When I'm not coding...  
-You can find me **playing football with my awesome kids** 🏃‍♂️⚽ or experimenting in my **micro home brewery** 🍺, brewing up a fresh batch of **West Coast IPA**. Cheers!
+### When I'm not coding...
+
+You can find me **playing football with my awesome kids** 🏃‍♂️⚽, experimenting in my **micro home brewery** 🍺, brewing up a fresh batch of **West Coast IPA**, or tinkering with my **3D printer** 🖨️ creating all sorts of useful (and sometimes useless) things!
